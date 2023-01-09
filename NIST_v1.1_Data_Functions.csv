@@ -1,0 +1,6 @@
+"Function_ID","Function_Name","Function_Description"
+"DE","Detect","Develop and implement appropriate activities to identify the occurrence of a cybersecurity event."
+"ID","Identify","Develop an organizational understanding to manage cybersecurity risk to systems, people, assets, data, and capabilities."
+"PR","Protect","Develop and implement appropriate safeguards to ensure delivery of critical Services."
+"RC","Recover","Develop and implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity Incident."
+"RS","Respond","Develop and implement appropriate activities to take action regarding a detected cybersecurity incident."
